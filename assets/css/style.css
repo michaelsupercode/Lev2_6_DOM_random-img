@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f09d7a;
+}
+
+img {
+    width: 30%;
+    margin: auto;
+}
