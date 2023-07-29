@@ -6,9 +6,25 @@
 
 body {
     background: #f09d7a;
+    justify-content: center;
+}
+.title {
+    font-size: 2em;
+}
+
+.button {
+    margin-left: 31%;
+    padding: .1em;
 }
 
 img {
     width: 30%;
-    margin: auto;
+    margin: 1%;
 }
+
+h6 {
+    margin: 5vh;
+    text-align: center;
+    color: white;
+    }
+    
